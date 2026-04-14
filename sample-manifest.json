@@ -1,0 +1,12 @@
+{
+  "export_job_id": "8dff8fa1-5c76-4ac8-9027-1204c5950d31",
+  "id_short": 460612,
+  "published_at": "2026-04-14T07:11:17Z",
+  "repo_name": "new-restaurant-domains-365-days-in-utah-us-sample-460612",
+  "sample_asset_name": "beamstation_460612_restaurants-us-ut_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/460612/beamstation_460612_restaurants-us-ut_SAMPLE_DIST.csv",
+  "sample_records": 28,
+  "sample_sha256": "3f620e09fb76e3d6a66bb68e6e73e41fe56b7a42679a49df7adf286b81d8629b",
+  "sample_size_bytes": 125214,
+  "total_records": 281
+}
